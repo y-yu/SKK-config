@@ -26,5 +26,11 @@
 		<key>insertMarkedText</key>
 		<true/>
 	</dict>
+	<dict>
+		<key>bundleIdentifier</key>
+		<string>com.tinyspeck.slackmacgap</string>
+		<key>syncInputSource</key>
+		<true/>
+	</dict>
 </array>
 </plist>
