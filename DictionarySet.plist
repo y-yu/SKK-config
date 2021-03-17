@@ -170,5 +170,13 @@
 		<key>type</key>
 		<integer>5</integer>
 	</dict>
+	<dict>
+		<key>active</key>
+		<true/>
+		<key>location</key>
+		<string>/Users/yyu/Library/Application Support/AquaSKK/SKK-JISYO.jawiki</string>
+		<key>type</key>
+		<integer>5</integer>
+	</dict>
 </array>
 </plist>
